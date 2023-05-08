@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Cardo';
+    src: url('../fonts/Cardo-Italic.woff2') format('woff2'),
+        url('../fonts/Cardo-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Bold.woff2') format('woff2'),
+        url('../fonts/OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RalewayBold';
+    src: url('../fonts/RalewayBold.eot');
+    src: url('../fonts/RalewayBold.eot') format('embedded-opentype'),
+         url('../fonts/RalewayBold.woff2') format('woff2'),
+         url('../fonts/RalewayBold.woff') format('woff'),
+         url('../fonts/RalewayBold.ttf') format('truetype'),
+         url('../fonts/RalewayBold.svg#RalewayBold') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewayLight';
+    src: url('../fonts/RalewayLight.eot');
+    src: url('../fonts/RalewayLight.eot') format('embedded-opentype'),
+         url('../fonts/RalewayLight.woff2') format('woff2'),
+         url('../fonts/RalewayLight.woff') format('woff'),
+         url('../fonts/RalewayLight.ttf') format('truetype'),
+         url('../fonts/RalewayLight.svg#RalewayLight') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewayRegular';
+    src: url('../fonts/RalewayRegular.eot');
+    src: url('../fonts/RalewayRegular.eot') format('embedded-opentype'),
+         url('../fonts/RalewayRegular.woff2') format('woff2'),
+         url('../fonts/RalewayRegular.woff') format('woff'),
+         url('../fonts/RalewayRegular.ttf') format('truetype'),
+         url('../fonts/RalewayRegular.svg#RalewayRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewaySemiBold';
+    src: url('../fonts/RalewaySemiBold.eot');
+    src: url('../fonts/RalewaySemiBold.eot') format('embedded-opentype'),
+         url('../fonts/RalewaySemiBold.woff2') format('woff2'),
+         url('../fonts/RalewaySemiBold.woff') format('woff'),
+         url('../fonts/RalewaySemiBold.ttf') format('truetype'),
+         url('../fonts/RalewaySemiBold.svg#RalewaySemiBold') format('svg');
+}
+
