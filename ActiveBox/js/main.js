@@ -56,3 +56,4 @@ $(function () {
         
 });
 
+console.log('Test 2');
